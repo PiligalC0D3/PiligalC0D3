@@ -11,19 +11,19 @@ Connect With me:
 
 Main Skills:
 <br>
-<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html-logo" />
-<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css-logo"/>
-<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="js-logo"/>
-<img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" alt="bootstrap-logo"/>
-<img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="nodejs-logo"/>
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html-logo" width=80px />
+<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css-logo" width=80px />
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="js-logo" width=80px />
+<img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" alt="bootstrap-logo" width=80px />
+<img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="nodejs-logo" width=80px />
 <br>
 Studying in this moment:
 <br>
-<img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="react-logo"/>
-<img src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" alt="typescript-logo"/>
-<img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="nodejs-logo"/>
-<img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git-logo"/>
-<img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="github-logo"/>
+<img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="react-logo" width=80px />
+<img src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" alt="typescript-logo" width=80px />
+<img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="nodejs-logo" width=80px />
+<img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git-logo" width=80px />
+<img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="github-logo" width=80px />
 <br>
-[![Michel GitHub stats](https://github-readme-stats.vercel.app/api?username=PiligalC0D3)](https://github.com/anuraghazra/github-readme-stats)
+[![Michel GitHub stats](https://github-readme-stats.vercel.app/api?username=PiligalC0D3&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
