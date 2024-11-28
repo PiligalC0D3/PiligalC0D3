@@ -26,4 +26,6 @@ Studying in this moment:
 <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="github-logo" width=80px />
 <br>
 [![Michel GitHub stats](https://github-readme-stats.vercel.app/api?username=PiligalC0D3&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 
