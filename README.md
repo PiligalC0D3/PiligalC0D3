@@ -1,12 +1,12 @@
-## Hi there 👋 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width=22px>
+## Hi there 👋 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width=22px> 
 Eu sou Michel, em processo de transição de carreira, atualmente estou aprendendo e criando projetos para consolidar meu aprendizado para me tornar um Desenvolvedor Full Stack.
 <br>
 <br>
 Connect With me:
 <br>
-<a href="https://www.linkedin.com/in/michel-santos-1b3b1b6a/">
+<a href="https://www.linkedin.com/in/michel-santos-1b3b1b6a/"> 
 <img src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" width="50px" alt="linkedin-logo"/> 
-</a>
+</a> <img src="https://img1.picmix.com/output/stamp/normal/1/6/5/0/1930561_979af.gif" width="55px">
 <br>
 
 Main Skills:
