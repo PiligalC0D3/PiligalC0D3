@@ -26,7 +26,10 @@ Studying in this moment:
 <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="nodejs-logo" width=80px />
 
 <br>
-[![Michel GitHub stats](https://github-readme-stats.vercel.app/api?username=PiligalC0D3&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<div align="center">
+  <a href="https://github.com/PiligalC0D3">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PiligalC0D3&show_icons=true&theme=gotham" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiligalC0D3&layout=compact&theme=gotham" />
+  </a>
+</div>
 
