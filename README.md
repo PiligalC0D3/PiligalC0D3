@@ -24,6 +24,7 @@ Studying in this moment:
 <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="react-logo" width=80px />
 <img src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" alt="typescript-logo" width=80px />
 <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="nodejs-logo" width=80px />
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="js-logo" width=80px />
 
 <br>
 <div align="center">
